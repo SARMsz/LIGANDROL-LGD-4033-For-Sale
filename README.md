@@ -4,7 +4,7 @@
 
   <h2>What is Ligandrol LGD-4033?</h2>
   <p>Ligandrol, also known as LGD-4033, is a highly potent Selective Androgen Receptor Modulator (SARM) that has garnered significant attention in the fitness community. Originally developed to treat muscle wasting and osteoporosis, LGD-4033 has since become a favorite among bodybuilders and athletes due to its remarkable ability to promote lean muscle mass, enhance strength, and improve overall physical performance without the severe side effects associated with anabolic steroids.</p>
-  ![image](https://github.com/user-attachments/assets/16749376-0d21-49e9-a4ac-f683a066787d)
+![image](https://github.com/user-attachments/assets/16749376-0d21-49e9-a4ac-f683a066787d)
   <p>This legal alternative is formulated to mimic the muscle-building benefits of traditional steroids, but with a much safer profile. By selectively binding to androgen receptors in muscle and bone tissues, Ligandrol LGD-4033 stimulates protein synthesis and nitrogen retention, which are critical processes for muscle repair and growth. With its fast-acting nature, users can expect significant improvements in muscle mass, strength, and recovery times, making it an ideal choice for those looking to maximize their gains.</p>
 
   <h2>The Science Behind LGD-4033: How It Works</h2>
